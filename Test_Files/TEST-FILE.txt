@@ -1,0 +1,28 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20230127133852
+Username: MSI\selle
+RunAs User: MSI\selle
+Configuration Name: 
+Machine: MSI (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoExit -Command & { Import-Module 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\Tools\Microsoft.VisualStudio.DevShell.dll'; Enter-VsDevShell -SetDefaultWindowTitle -InstallPath 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise' -StartInPath 'C:\devl\Projects\Calculator' }
+Process ID: 1672
+PSVersion: 5.1.22621.963
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.963
+BuildVersion: 10.0.22621.963
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\TEST-FILE.txt
+PS C:\devl\Projects\Calculator> .\bin\Debug\Calculator.exe
+PS C:\devl\Projects\Calculator> .\bin\Debug\Calculator.exe
+PS C:\devl\Projects\Calculator> .\bin\Debug\Calculator.exe
+PS C:\devl\Projects\Calculator> .\bin\Debug\Calculator.exe
+PS C:\devl\Projects\Calculator> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20230127134203
+**********************

@@ -1,0 +1,11 @@
+C:\devl\Projects\Calculator\bin\Release\Calculator.exe.config
+C:\devl\Projects\Calculator\bin\Release\Calculator.exe
+C:\devl\Projects\Calculator\bin\Release\Calculator.pdb
+C:\devl\Projects\Calculator\obj\Release\Calculator.csproj.AssemblyReference.cache
+C:\devl\Projects\Calculator\obj\Release\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\devl\Projects\Calculator\obj\Release\Calculator.Form1.resources
+C:\devl\Projects\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\devl\Projects\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\devl\Projects\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\devl\Projects\Calculator\obj\Release\Calculator.exe
+C:\devl\Projects\Calculator\obj\Release\Calculator.pdb
